@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dawn idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dawn up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dawn left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dawn right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dawn down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dawn",
+	"position": [
+		2070,
+		890
+	],
+	"healthicon": "dawn",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-570,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

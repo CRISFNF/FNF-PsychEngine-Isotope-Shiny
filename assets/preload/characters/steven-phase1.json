@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				200,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				206,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				218,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				206,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				214,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/steven_phase_1",
+	"position": [
+		1800,
+		810
+	],
+	"healthicon": "steven",
+	"flip_x": true,
+	"healthbar_colors": [
+		179,
+		0,
+		0
+	],
+	"camera_position": [
+		-300,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 2.2
+}

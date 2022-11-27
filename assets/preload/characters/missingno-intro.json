@@ -1,0 +1,129 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-1
+			],
+			"anim": "break",
+			"fps": 24,
+			"name": "Ball_Break",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "burst",
+			"fps": 24,
+			"name": "Ball_FinalBurst",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-2
+			],
+			"anim": "break idle",
+			"fps": 24,
+			"name": "Ball_Idle_Break",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				1
+			],
+			"anim": "normal idle",
+			"fps": 24,
+			"name": "Ball_Idle_Normal",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "throw",
+			"fps": 24,
+			"name": "Ball_Throw",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "BA_Missingno_Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			],
+			"name": "BA_Missingno_Idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/buried/missingnopokeball_assets",
+	"position": [
+		1190,
+		1470
+	],
+	"healthicon": "missingno",
+	"flip_x": false,
+	"healthbar_colors": [
+		128,
+		112,
+		152
+	],
+	"camera_position": [
+		-480,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 7.50000000000002
+}
